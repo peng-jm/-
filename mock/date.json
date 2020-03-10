@@ -1,0 +1,998 @@
+{
+    "data": [
+        {
+            "id":1,
+            "txt":"1. 《我待生活如初恋》曝新预告片，戏骨联袂演绎温暖人生",
+            "href":"http://m.maoyan.com/news/655019"
+        },
+        {
+            "id":2,
+            "txt":"2. 安东尼奥·班德拉斯加盟电影《神秘海域》，联手荷兰弟开启神秘冒险",
+            "href":"http://m.maoyan.com/news/655019"
+        },
+        {
+            "id":3,
+            "txt":"3. 《大主宰》超点解锁高燃剧情，王源欧阳娜娜加速成长进行时",
+            "href":"http://m.maoyan.com/news/670925"
+
+        },
+        {
+            "id":4,
+            "txt":"4. 《绝地战警：疾速追击》曝重返江湖特辑，史皇携手马丁·劳伦斯爆笑继续",
+            "href":"http://m.maoyan.com/news/646004"
+        },
+        {
+            "id":5,
+            "txt":"5. 网友集体一星抵制的“奇葩网剧”，竟然是对这部剧最大的肯定？",
+            "href":"http://m.maoyan.com/news/634593"
+        },
+        {
+            "id":6,
+            "txt":"6. 李易峰帮江疏影“追星”？《我在北京等你》甜宠指数再爆灯",
+            "href":"http://m.maoyan.com/news/670523"
+        },
+        {
+            "id":7,
+            "txt":"7. 《安家》原型故事探讨人性，孙俪遇富商客户迎转机",
+            "href":"http://m.maoyan.com/news/645408"
+        },
+        {
+            "id":8,
+            "txt":"8. 深圳洛克特视效深度参与影片《孙悟空之噬天魔猴》的制作",
+            "href":"http://m.maoyan.com/news/619839"
+        },
+        {
+            "id":9,
+            "txt":"9. 《热血同行》即将收官，马泽涵自曝玛丽结局留悬念",
+            "href":"http://m.maoyan.com/news/650205"
+        }
+    ],
+    "cast":[
+        {
+            "id":1,
+            "img":"https://p0.meituan.net/moviemachine/9ccb37abf959c64231184506debf5def146192.jpg",
+            "name":"甄子丹",
+            "href":"http://m.maoyan.com/celebrity/28936"
+        },
+         {
+            "id":2,
+            "img":"https://p0.meituan.net/movie/1fb88ccc945980801701d50597bae66553347.jpg",
+            "name":"曾志伟",
+            "href":"http://m.maoyan.com/celebrity/28430"
+        },
+        {
+            "id":3,
+            "img":"https://p1.meituan.net/170.230/movie/e60b091ba479e5951331069e561977ab50378.jpg",
+            "name":"马泰",
+            "href":"http://m.maoyan.com/celebrity/11153"
+        },
+       
+        {
+            "id":4,
+            "img":"https://p0.meituan.net/movie/d290c66b4c40f6d676c64054b9ef4d1a55520.jpg",
+            "name":"沈梦辰",
+            "href":"http://m.maoyan.com/celebrity/389343"
+        },
+        {
+            "id":5,
+            "img":"https://p0.meituan.net/moviemachine/ae497712ff7d5004d0bebb6154b30d9457982.jpg",
+            "name":"郑云",
+            "href":"http://m.maoyan.com/celebrity/913124"
+        },
+        
+        {
+            "id":6,
+            "img":"https://p1.meituan.net/moviemachine/97d6840d9605478e91912d5f05e9c55634719.jpg",
+            "name":"孟鹤堂",
+            "href":"http://m.maoyan.com/celebrity/2820111"
+        },
+        {
+            "id":7,
+            "img":"https://p1.meituan.net/moviemachine/c7d7683eeb659efb9270fb38cda1704d118177.jpg",
+            "name":"于谦",
+            "href":"http://m.maoyan.com/celebrity/513"
+        },
+        {
+            "id":8,
+            "img":"https://p0.meituan.net/moviemachine/b201f991c2cf98dfd6fafe97ad90eecd176389.png",
+            "name":"郭德纲",
+            "href":"http://m.maoyan.com/celebrity/6701"
+        },
+        {
+            "id":9,
+            "img":"https://p0.meituan.net/movie/0a93613649a148e0ff55f53d02668db0141734.jpg",
+            "name":"胡夏",
+            "href":"http://m.maoyan.com/celebrity/6627"
+        },
+        {
+            "id":10,
+            "img":"https://p1.meituan.net/movie/4fa712b10064eb84420cee5782f97b9831472.jpg",
+            "name":"杨九郎",
+            "href":"http://m.maoyan.com/celebrity/2806262"
+        }
+    ],
+	"list":[
+		 {
+            "id": 1302494,
+            "haspromotionTag": false,
+            "img": "https://p1.meituan.net/128.180/moviemachine/6664cd8c31f1254bc52793a158dc53ff8811971.jpg",
+            "version": "",
+            "nm": "调酒师",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": false,
+            "wish": 527,
+            "star": "刘挺,陆莹,张如意",
+            "rt": "2020-03-13",
+            "showst": 1,
+            "wishst": 0,
+            "comingTitle": "3月13日 周五"
+        },
+        {
+            "id": 1294417,
+            "haspromotionTag": false,
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583493289539&di=1df3750f263a15bd0cbf60029a1996e9&imgtype=0&src=http%3A%2F%2Fimg.xiguaimg.com%2Fpic%2Fuploadimg%2F2019-12%2F201912421453451234.jpg",
+            "version": "",
+            "nm": "危险记忆",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": false,
+            "wish": 4515,
+            "star": "甘婷婷,李滨,乔乔",
+            "rt": "2020-03-20",
+            "showst": 1,
+            "wishst": 0,
+            "comingTitle": "3月20日 周五"
+        },
+        {
+            "id": 665702,
+            "haspromotionTag": false,
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583493423699&di=0001d185ea8e78d9f741edb106ce532b&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201808%2F30%2F20180830120842_didhw.thumb.700_0.jpg",
+            "version": "",
+            "nm": "恋上美人鱼",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": false,
+            "wish": 293,
+            "star": "赵鸿飞,雷牧",
+            "rt": "2020-03-20",
+            "showst": 1,
+            "wishst": 0,
+            "comingTitle": "3月20日 周五"
+        },
+        
+        {
+            "id": 1298859,
+            "haspromotionTag": false,
+            "img":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1113491873,2172228200&fm=26&gp=0.jpg",
+            "version": "",
+            "nm": "木兰：横空出世",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": false,
+            "wish": 44668,
+            "rt": "2020-03",
+            "showst": 1,
+            "wishst": 0,
+            "comingTitle": "3月 待定"
+        },
+        {
+            "id": 1212608,
+            "haspromotionTag": false,
+            "img": "https://p0.meituan.net/128.180/movie/115273d73084aa4e54c3401f7457e9fa1185899.jpg",
+            "version": "",
+            "nm": "站住！小偷",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": false,
+            "wish": 39702,
+            "star": "郑云,梁小龙,尤勇",
+            "rt": "2020-03",
+            "showst": 1,
+            "wishst": 0,
+            "comingTitle": "3月 待定"
+        },
+        {
+            "id": 1301612,
+            "haspromotionTag": false,
+            "img": "https://p1.meituan.net/128.180/moviemachine/5abd9fa1ab51da3ff81f52c97e6f9f7076364.jpg",
+            "version": "",
+            "nm": "今生只为遇见你",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": false,
+            "wish": 3448,
+            "star": "田志斌,于苏桐,何海蓝",
+            "rt": "2020-04-03",
+            "showst": 1,
+            "wishst": 0,
+            "comingTitle": "4月3日 周五"
+        },
+        {
+            "id": 1301478,
+            "haspromotionTag": false,
+            "img": "https://p0.meituan.net/128.180/movie/4e0d0e826fded46ec79e1e335b2482be52178.jpg",
+            "version": "",
+            "nm": "北平会馆",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": false,
+            "wish": 13235,
+            "star": "吴大可,朱梓瑜,刘亦彤",
+            "rt": "2020-04-04",
+            "showst": 1,
+            "wishst": 0,
+            "comingTitle": "4月4日 周六"
+        },
+        {
+            "id": 1259189,
+            "haspromotionTag": false,
+            "img": "https://p0.meituan.net/128.180/movie/31832c7a82d9db4921c55ceab5db30a91720579.jpg",
+            "version": "",
+            "nm": "六人-泰坦尼克上的中国幸存者",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": false,
+            "wish": 5330,
+            "star": "詹姆斯·卡梅隆,施万克,方国民",
+            "rt": "2020-04-04",
+            "showst": 1,
+            "wishst": 0,
+            "comingTitle": "4月4日 周六"
+        },
+        {
+            "id": 1302405,
+            "haspromotionTag": false,
+            "img": "https://p1.meituan.net/128.180/movie/81fe2197ef930c79624a28cc76c423835264620.png",
+            "version": "",
+            "nm": "小公主艾薇拉与神秘王国2",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": false,
+            "wish": 4112,
+            "rt": "2020-04-04",
+            "showst": 1,
+            "wishst": 0,
+            "comingTitle": "4月4日 周六"
+        }
+	],
+	"list2":[
+		 {
+            "id": 1283276,
+            "img": "https://p1.meituan.net/170.230/movie/fcabb91dbae511e8a32af1deeb0c1cec204154.jpg",
+            "wish": 26777,
+            "wishst": 0,
+            "nm": "大红包",
+            "comingTitle": "4月30日 周四"
+        },
+        {
+            "id": 367835,
+            "img": "https://p1.meituan.net/170.230/movie/d3f2c33b95e10f54dc402de27bb4bdc11292214.jpg",
+           " wish": 25201,
+            "wishst": 0,
+            "nm": "麦兜·饭宝奇兵",
+            "comingTitle": "4月25日 周六"
+        },
+        {
+            "id": 1301478,
+            "img": "https://p0.meituan.net/170.230/movie/4e0d0e826fded46ec79e1e335b2482be52178.jpg",
+            "wish": 13235,
+            "wishst": 0,
+            "nm": "北平会馆",
+            "comingTitle": "4月4日 周六"
+        },
+        {
+            "id": 1292570,
+            "img": "https://p0.meituan.net/170.230/moviemachine/e10ceb90d2c06d3524d01d573ccf88fb7514998.jpg",
+            "wish": 12632,
+            "wishst": 0,
+            "nm": "金禅降魔",
+            "comingTitle": "5月8日 周五"
+        },
+        {
+            "id": 247863,
+            "img": "https://p0.meituan.net/170.230/movie/a06c36755e3e4e902235e9904cc1551b4677926.jpg",
+            "wish": 8665,
+            "wishst": 0,
+            "nm": "印度奇游",
+            "comingTitle": "5月1日 周五"
+        },
+        {
+            "id": 1280270,
+            "img": "https://p0.meituan.net/170.230/moviemachine/0c3f4cd8caf0f0848a54e3081349bdac22615677.jpg",
+            "wish": 8269,
+            "wishst": 0,
+            "nm": "魔法学院",
+            "comingTitle": "5月1日 周五"
+        },
+        {
+            "id": 1259189,
+            "img": "https://p0.meituan.net/170.230/movie/31832c7a82d9db4921c55ceab5db30a91720579.jpg",
+            "wish": 5330,
+            "wishst": 0,
+            "nm": "六人-泰坦尼克上的中国幸存者",
+            "comingTitle": "4月4日 周六"
+        },
+        {
+            "id": 1302405,
+            "img": "https://p1.meituan.net/170.230/movie/81fe2197ef930c79624a28cc76c423835264620.png",
+            "wish": 4112,
+            "wishst": 0,
+            "nm": "小公主艾薇拉与神秘王国2",
+            "comingTitle": "4月4日 周六"
+        },
+        {
+            "id": 1302281,
+            "img": "https://p0.meituan.net/170.230/moviemachine/1d2b4985d0187b437d41a73994ba2e191607376.jpg",
+            "wish": 4066,
+            "wishst": 0,
+            "nm": "奇妙王国之魔法奇缘",
+            "comingTitle": "4月11日 周六"
+        },
+        {
+            "id": 1301612,
+            "img": "https://p1.meituan.net/170.230/moviemachine/5abd9fa1ab51da3ff81f52c97e6f9f7076364.jpg",
+            "wish": 3448,
+            "wishst": 0,
+            "nm": "今生只为遇见你",
+            "comingTitle": "4月3日 周五"
+        }
+	],
+	"list3":[
+		        {
+            "id": 5767,
+            "mark": 0,
+            "nm": "星星国际影城（岳阳东茅岭店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区步行街地一大道",
+            "distance": "10.2km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 25035,
+            "mark": 0,
+            "nm": "CGV影城（岳阳步步高IMAX店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区东茅岭路1号步步高新天地广场9楼",
+            "distance": "10.2km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "IMAX厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "IMAX厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 806,
+            "mark": 0,
+            "nm": "汇泽电影城（东茅岭天虹百货）",
+            "sellPrice": "",
+            "addr": "岳阳楼区东茅岭路42号（天虹百货5楼）",
+            "distance": "10.3km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 805,
+            "mark": 0,
+            "nm": "潇湘国际影城（岳阳店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区九天金冠大厦六楼（火车站对面，贵人足浴楼上）",
+            "distance": "10.7km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 8575,
+            "mark": 0,
+            "nm": "大地数字影院（新格里时尚广场店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区东茅岭路新格里时尚广场5楼（土桥工商银行正对面）",
+            "distance": "10.7km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减10元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 24134,
+            "mark": 0,
+            "nm": "美誉国际影城（岳阳店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区泰和商业北广场5楼（沃尔玛后门楼上）",
+            "distance": "11.1km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "4K厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "4K厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 803,
+            "mark": 0,
+            "nm": "大地影院（泰和商业广场店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区泰和大酒店二楼大地数字影院（原泰和剧院）",
+            "distance": "11.2km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减10元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 8034,
+            "mark": 0,
+            "nm": "恒大嘉凯影城岳阳店",
+            "sellPrice": "",
+            "addr": "岳阳楼区求索西路118号恒大名都商业楼三层",
+            "distance": "11.3km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 23631,
+            "mark": 0,
+            "nm": "MC全景声巨幕影城（新天地店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区冷水铺路洛王段岳阳新天地项目1栋3层",
+            "distance": "12.2km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "杜比全景声厅",
+                    "巨幕厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "巨幕厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 25528,
+            "mark": 0,
+            "nm": "南湖全景声巨幕影城（名门世家店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区南湖大道名门世家11栋3楼",
+            "distance": "12.5km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "杜比全景声厅",
+                    "4K厅",
+                    "4D厅",
+                    "巨幕厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "4K厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "4D厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "巨幕厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 1616,
+            "mark": 0,
+            "nm": "万达影城（步步高广场店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区步步高广场6楼（近东方罗玛）",
+            "distance": "13.4km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 24317,
+            "mark": 0,
+            "nm": "金逸巨幕影城（岳阳店）",
+            "sellPrice": "",
+            "addr": "岳阳楼区青年东路沃尔玛广场4楼",
+            "distance": "15km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "giftTag": "",
+                "hallType": [
+                    "杜比全景声厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 25189,
+            "mark": 0,
+            "nm": "楚湘国际影城",
+            "sellPrice": "",
+            "addr": "云溪区缤纷天地广场8栋楚湘国际影城",
+            "distance": "22.8km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减2元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 14293,
+            "mark": 0,
+            "nm": "富安国际影城（岳阳县店）",
+            "sellPrice": "",
+            "addr": "岳阳县荣家湾富安国际广场3楼",
+            "distance": "34.7km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 15320,
+            "mark": 0,
+            "nm": "白云湖影城",
+            "sellPrice": "",
+            "addr": "临湘市白云湖畔长安御都3号（白云湖）",
+            "distance": "38.8km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 8120,
+            "mark": 0,
+            "nm": "时光影城",
+            "sellPrice": "",
+            "addr": "临湘市长安中路世纪商城五楼（临湘教育局旁）",
+            "distance": "40.6km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 24809,
+            "mark": 0,
+            "nm": "屈原管理区明星影城",
+            "sellPrice": "",
+            "addr": "汨罗市屈原管理区天问街道办事处德科广场",
+            "distance": "67.3km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 24800,
+            "mark": 0,
+            "nm": "华和鑫影城",
+            "sellPrice": "",
+            "addr": "汨罗市长乐镇裕丰楼商业综合楼6楼",
+            "distance": "70.6km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 27502,
+            "mark": 0,
+            "nm": "横店电影城（汨罗店）",
+            "sellPrice": "",
+            "addr": "汨罗市屈原桥财富广场4楼",
+            "distance": "71.2km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减8元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 24259,
+            "mark": 0,
+            "nm": "友谊国际影城",
+            "sellPrice": "",
+            "addr": "汨罗市建设路6号友谊100三楼",
+            "distance": "71.4km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        }
+	]
+}
